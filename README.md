@@ -55,6 +55,7 @@ Experience the live application here:
 │   ├── Electric_Vehicles_Market_Report.pdf
 ├── README.md
 ## 🤝 Connect with Me
+---
 
 Feel free to reach out for feedback, questions, or collaboration opportunities:  
 **LinkedIn**: [Dr. Syed Faizan](https://www.linkedin.com/in/drsyedfaizanmd/)
