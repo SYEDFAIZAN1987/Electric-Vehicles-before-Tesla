@@ -43,7 +43,7 @@ Experience the live application here:
 
 ## 📂 Project Structure
 
-```plaintext
+```
 .
 ├── Data/
 │   ├── Electric_Vehicles_Data.csv
@@ -54,8 +54,9 @@ Experience the live application here:
 ├── Reports/
 │   ├── Electric_Vehicles_Market_Report.pdf
 ├── README.md
-## 🤝 Connect with Me```
----
+## 🤝 Connect with Me
+```
+
 
 Feel free to reach out for feedback, questions, or collaboration opportunities:  
 **LinkedIn**: [Dr. Syed Faizan](https://www.linkedin.com/in/drsyedfaizanmd/)
