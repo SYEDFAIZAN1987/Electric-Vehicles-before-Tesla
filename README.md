@@ -4,9 +4,9 @@
 
 ## 📘 About the Project
 
-This R Shiny application provides an interactive dashboard for analyzing the adoption of electric vehicles (EVs) across geographic regions, manufacturers, and models. It delves into trends, market comparisons, and the impact of Clean Alternative Fuel Vehicle (CAFV) incentives.
+This R Shiny application provides an interactive dashboard for analyzing the adoption of electric vehicles (EVs) across manufacturers, and models. It delves into trends, market comparisons, and the impact of Clean Alternative Fuel Vehicle (CAFV) incentives.
 
-The dashboard was developed as part of **ALY 6070: Communication and Visualization for Data Analytics**, with a focus on leveraging data visualization to answer complex business questions.
+
 
 ### 🔑 Key Features
 1. **Interactive Dashboard**:
